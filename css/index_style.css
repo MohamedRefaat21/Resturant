@@ -1,0 +1,143 @@
+.home 
+{
+    height: 100vh;
+    background-image: url(../imgs/bg_hero_2.png);
+    background-size: 100% 100%;
+}
+.navbar-nav li a
+{
+    padding: 20px;
+    color: #fff !important;
+}
+.navbar-nav li
+{
+    padding: 30px;
+}
+.navbar .nav-link:hover
+{
+    color: black !important;
+  
+
+}
+.content 
+{
+    margin-top: 10%;
+    margin-left: 10%;
+    padding: 10px;
+   
+}
+.content h1 
+{
+    width: 50%;
+    font-size: 65px;
+    color: white;
+    
+}
+.content p 
+{
+    color: white;
+}
+.btn:hover
+{
+    color: #fff;
+    background-color: black;
+    border: none;
+}
+
+#product
+{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+#product h1 
+{
+    
+    text-align: center;
+    color: gray;
+    padding: 20px;
+    margin-bottom: 60px;
+}
+.pro-one 
+{     
+ width: 300px;
+ height: 350px;
+ border-radius: 20px;
+ box-shadow: 0 0 25px 0 rgba(41,45,51,0.35);
+ text-align: center;
+}
+.pro-two 
+{
+ width: 300px;
+ height: 350px;
+ border-radius: 20px;
+ box-shadow: 0 0 25px 0 rgba(41,45,51,0.35);
+ text-align: center;
+}
+.pro-the
+{
+ width: 300px;
+ height: 350px;
+ border-radius: 20px;
+ box-shadow: 0 0 25px 0 rgba(41,45,51,0.35);
+ text-align: center;
+}
+#partners
+{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+#partners h1
+{
+    text-align: center;
+}
+#mob
+{
+    margin-top: 5rem;
+    height: 110vh;
+    background-color: rgb(70, 33, 138);
+}
+.f-s
+{
+    font-size: 60px;
+    color: goldenrod !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
